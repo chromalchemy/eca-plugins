@@ -161,7 +161,7 @@
       "featured": false
     },
     {
-      "name": "allium",
+      "name": "allium-dev",
       "description": "Durable behavioural intent for ECA: capture what software is meant to do, surface ambiguity, spot spec-code drift, and generate tests; optional Allium CLI adds validation and analysis",
       "source": "plugins/allium",
       "category": "Development",
