@@ -22,3 +22,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+.calva/mcp-server/port
+.clj-kondo/.cache/
+.lsp/.cache/
